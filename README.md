@@ -8,7 +8,7 @@
 - 📫 How to reach me: create an issue [here](https://github.com/Alcamoru/Alcamoru/issues)
 - ⚡ Fun fact: i am a sports developer
 
-[![Alcamoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcamoru&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Alcamoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcamoru&show_icons=true&theme=dracula&include_all_commits=true)
 
-[![Alcamoru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alcamoru)](https://github.com/anuraghazra/github-readme-stats)
+![Alcamoru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alcamoru)
 
