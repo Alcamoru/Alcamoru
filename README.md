@@ -1,6 +1,6 @@
 ### Hi ! 👋
 
-- 🔭 I’m currently working on matrices, python, and Flask
+- 🔭 I’m currently working on blockchain, Java, and Minecraft
 - 🌱 I’m currently learning python, frameworks, and databases
 - 👯 I’m looking to collaborate on learning with people and work togeather
 - 💬 Ask me about sport, and I will tell you what you want !
